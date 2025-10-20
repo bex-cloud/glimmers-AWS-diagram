@@ -1,1 +1,0 @@
-# glimmers-AWS-diagram
